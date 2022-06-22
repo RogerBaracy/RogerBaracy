@@ -8,9 +8,10 @@
 
 ## Github Stats ⭐ 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rogerbaracy&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 50%;" />
-  </div>
-  </hr>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbaracy&hide_border=true&layout=compact&theme=radical" align="left" style="width: 50%" />
+   <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=rogerbaracy&show_icons=true&count_private=true&hide_border=true&theme=radical" style="width: 50%;" />  
+   </div>
+   <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbaracy&hide_border=true&layout=compact&theme=radical" style="width: 50%;" />
+   </div>
 </div>
