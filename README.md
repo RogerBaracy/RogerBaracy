@@ -7,11 +7,7 @@
 </div>  
 
 ## Github Stats ⭐ 
-<div>
    <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rogerbaracy&show_icons=true&count_private=true&hide_border=true&theme=radical" style="width: 50%;" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=rogerbaracy&show_icons=true&count_private=true&hide_border=true&theme=radical" style="width: 50%; height:220px" align="left"/>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbaracy&hide_border=true&layout=compact&theme=radical" style="width: 46%;" align="right" />
    </div>
-   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbaracy&hide_border=true&layout=compact&theme=radical" style="width: 50%;" />
-   </div>
-</div>
