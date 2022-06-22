@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roger Baracy</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
-<p align="left">
-</p>
 
 ## Languages and Tools  
 <div align="center"> 
@@ -26,17 +24,16 @@
 </div>  
 
 ## Github Stats ⭐ 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rogerbaracy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbaracy&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=rogerbaracy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbaracy&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>  
 <br/>  
 <br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=rogerbaracy&&style=flat-square) 
