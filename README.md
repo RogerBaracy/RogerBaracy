@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roger Baracy</h1>
-<h3 align="center">A fullstak developer from Brazil</h3>
+<h3 align="center">A fullstack developer from Brazil</h3>
 
 ## Languages and Skills  
 <div align="center"> 
